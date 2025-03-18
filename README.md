@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw3IBusZubItLV97LEXskSkh&ust=1742392754872000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDEwfrkk4wDFQAAAAAdAAAAABAE" width="400px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="400px"/>
