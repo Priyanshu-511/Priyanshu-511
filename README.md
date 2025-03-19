@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 ### 🚀 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-511&layout=compact&theme=dark)
 
-![Your Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-511&theme=github_dark)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Priyanshu-511&theme=algolia)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
