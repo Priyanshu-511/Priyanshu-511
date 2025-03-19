@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Priyanshu-511&theme=react-dark)
 -->
 
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-511&color=blue)
 
 
@@ -59,5 +57,3 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- ![Meme](https://random-memer.herokuapp.com/) -->
-
-<img src="https://github-profile-card.vercel.app/api?username=Priyanshu-511&theme=dark" alt="GitHub Profile Card">
