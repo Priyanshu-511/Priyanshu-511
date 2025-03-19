@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-511&show_icons=true&theme=dark)
 
 ![Your Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=github_dark)
 
