@@ -22,8 +22,23 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
 
+![Your Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=github_dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia)
+
+
 ### 🚀 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+
+![Your Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=github_dark)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=react-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 
 ### Languages and Tools:
@@ -36,3 +51,8 @@ Here are some ideas to get you started:
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <img align="right" alt="GIF" src="https://media.tenor.com/usffC_4nBswAAAAM/beavis-beavis-and-butthead.gif" width="400px"/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Meme](https://random-memer.herokuapp.com/)
+
