@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-511&color=blue)
 
-![Metrics](https://github.com/your-github-username/your-github-username/blob/main/github-metrics.svg)
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,10 +53,6 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-[![Your Name's Terminal](https://asciinema.org/a/your-asciinema-id.svg)](https://asciinema.org/a/your-asciinema-id)
-
-[![Term Profile](https://github-profile-terminal.vercel.app/?username=Priyanshu-511)](https://github-profile-terminal.vercel.app/?username=Priyanshu-511)
-
 
 <img align="right" alt="GIF" src="https://media.tenor.com/usffC_4nBswAAAAM/beavis-beavis-and-butthead.gif" width="400px"/>
 
@@ -65,3 +60,4 @@ Here are some ideas to get you started:
 
 <!-- ![Meme](https://random-memer.herokuapp.com/) -->
 
+<img src="https://github-profile-card.vercel.app/api?username=Priyanshu-511&theme=dark" alt="GitHub Profile Card">
