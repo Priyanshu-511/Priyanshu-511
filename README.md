@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-<img align="right" alt="GIF" src="https://media.tenor.com/usffC_4nBswAAAAM/beavis-beavis-and-butthead.gif" width="100px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/usffC_4nBswAAAAM/beavis-beavis-and-butthead.gif" width="150px"/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
