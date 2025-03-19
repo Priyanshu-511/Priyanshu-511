@@ -4,6 +4,8 @@
 🐧 Linux Enthusiast | Shell Scripting | Ubuntu User  
 🚀 Exploring more courses
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Welcome+to+my+profile!;I+love+coding!+%F0%9F%92%BB)
+
 <!--
 **Priyanshu-511/Priyanshu-511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,13 +33,17 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-511&layout=compact&theme=dark)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Priyanshu-511&theme=algolia)
-
+<!--
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
 
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Priyanshu-511&theme=react-dark)
+-->
+
+![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-511&color=blue)
 
+![Metrics](https://github.com/your-github-username/your-github-username/blob/main/github-metrics.svg)
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,9 +54,14 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+[![Your Name's Terminal](https://asciinema.org/a/your-asciinema-id.svg)](https://asciinema.org/a/your-asciinema-id)
+
+[![Term Profile](https://github-profile-terminal.vercel.app/?username=Priyanshu-511)](https://github-profile-terminal.vercel.app/?username=Priyanshu-511)
+
+
 <img align="right" alt="GIF" src="https://media.tenor.com/usffC_4nBswAAAAM/beavis-beavis-and-butthead.gif" width="400px"/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Meme](https://random-memer.herokuapp.com/)
+<!-- ![Meme](https://random-memer.herokuapp.com/) -->
 
