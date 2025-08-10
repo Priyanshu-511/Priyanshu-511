@@ -28,15 +28,17 @@ Here are some ideas to get you started:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Priyanshu-511&theme=algolia)
 
-
 ### 🚀 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-511&layout=compact&theme=dark)
 
-<!--
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-Priyanshu-511)
 
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Priyanshu-511&theme=react-dark)
--->
+
+
+### 📊 Languages Stats:
+![Weekly Development Breakdown](https://raw.githubusercontent.com/Priyanshu-511/repo/branch/assets/weekly_breakdown.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-511&color=blue)
 
