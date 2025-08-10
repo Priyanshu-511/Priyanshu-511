@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-511&layout=compact&theme=dark)
 
 ### 📊 Languages Stats:
-![Weekly Breakdown](https://cdn.jsdelivr.net/gh/Priyanshu-511/repo/branch/assets/weekly_breakdown.png)
+![Weekly Breakdown](/assets/weekly_breakdown.png)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-511&color=blue)
 
